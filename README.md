@@ -1,6 +1,6 @@
 # Programmer et contrôler votre camera Raspberry Pi 3 
 
-Dans ce repository, vous trouverez les éléments utilisés (slides, programmes, script) dans le cadre de la session "Programmer et contrôler votre camera Raspberry Pi 3" organisée par le [Wajug](http://www.wajug.be) le 27 octobre 2016 au [Leansquare](https://www.leansquare.be/) de Liège (Belgique). 
+Dans ce repository, vous trouverez les éléments utilisés (slides, programmes, script) dans le cadre de la [session "Programmer et contrôler votre camera Raspberry Pi 3"](http://www.wajug.be/talk/2016/pi-camera-v2) organisée par le [Wajug](http://www.wajug.be) le 27 octobre 2016 au [Leansquare](https://www.leansquare.be/) de Liège (Belgique). 
 
 Voci quelques liens utiles:
 * [MotionEye](https://github.com/ccrisan/motioneye/wiki)
